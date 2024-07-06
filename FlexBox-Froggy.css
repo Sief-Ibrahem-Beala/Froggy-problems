@@ -1,0 +1,214 @@
+    /* solution froggy problem 1 */
+    #pond {
+        display: flex;
+    justify-content:flex-end;
+    }
+
+
+     /* solution froggy problem 2 */
+    #pond {
+        display: flex;
+      justify-content: center;
+      }
+
+
+    /* solution froggy problem 3 */
+    #pond {
+    display: flex;
+    Justify-content: space-around;
+    }
+
+
+    /* solution froggy problem 4 */
+    #pond {
+        display: flex;
+      Justify-content: space-between;
+      }
+
+
+    /* solution froggy problem 5 */
+    #pond {
+        display: flex;
+      align-items: flex-end;
+      }
+
+
+    /* solution froggy problem 6 */
+    #pond {
+        display: flex;
+      Justify-content: center;
+      align-items: center;
+      }
+
+
+    /* solution froggy problem 7 */ 
+     #pond {
+        display: flex;
+      Justify-content: space-around;
+      align-items: flex-end;
+      }
+
+
+    /* solution froggy problem 8 */
+     #pond {
+        display: flex;
+      flex-direction: row-reverse;
+      }
+
+
+    /* solution froggy problem 9 */
+    #pond {
+        display: flex;
+      flex-direction: column;
+      }
+
+
+    /* solution froggy problem 10 */
+    #pond {
+        display: flex;
+      Justify-content: flex-end;
+      flex-direction: row-reverse;
+      
+      }
+
+
+    /* solution froggy problem 11 */
+    #pond {
+        display: flex;
+      flex-direction: column;
+      Justify-content: flex-end;
+      }
+
+
+    /* solution froggy problem 12 */
+    #pond {
+        display: flex;
+      flex-direction: column-reverse;
+      justify-content: space-between;
+      }
+
+
+    /* solution froggy problem 13 */
+    #pond {
+        display: flex;
+      flex-direction: row-reverse;
+      justify-content: center;
+      align-items: flex-end;
+      }
+
+
+    /* solution froggy problem 14 */
+    #pond {
+        display: flex;
+      }
+      
+      .yellow {
+      order:1;
+      }
+
+
+
+    /* solution froggy problem 15 */
+    #pond {
+        display: flex;
+      }
+      
+      .red {
+      order: -1;
+      }
+
+
+
+    /* solution froggy problem 16 */
+    #pond {
+        display: flex;
+        align-items: flex-start;
+      }
+      
+      .yellow {
+      align-self: flex-end;
+      }
+
+
+
+    /* solution froggy problem 17 */
+    #pond {
+        display: flex;
+        align-items: flex-start;
+      }
+      
+      .yellow {
+      order: 1;
+      align-self: flex-end;
+      }
+
+
+    
+    /* solution froggy problem 18 */
+    #pond {
+        display: flex;
+      flex-wrap: wrap;
+      }
+
+
+
+    /* solution froggy problem 19 */
+    #pond {
+        display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      }
+
+
+
+    /* solution froggy problem 20 */
+    #pond {
+        display: flex;
+      flex-flow: column wrap;
+      }
+
+
+
+    /* solution froggy problem 21 */
+    #pond {
+        display: flex;
+        flex-wrap: wrap;
+      align-content: flex-start;
+      }
+
+
+
+    /* solution froggy problem 22 */
+    #pond {
+        display: flex;
+        flex-wrap: wrap;
+      align-content: flex-end;
+      }
+
+
+
+    /* solution froggy problem 23 */
+    #pond {
+        display: flex;
+        flex-wrap: wrap;
+      flex-direction: column-reverse;
+      align-content: center;
+      }
+
+
+    
+    /* solution froggy problem 24 */
+    #pond {
+        display: flex;
+      flex-flow: column-reverse wrap-reverse;
+      align-items: flex-start;
+      Justify-content: center;
+      align-content: space-between;
+      }
+
+
+
+    
+
+
+
